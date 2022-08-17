@@ -66,3 +66,11 @@ img {
 .nav .active {
   background-color: #04AA6D;
 }
+
+.nav .hobby_title {
+    float: left;
+}
+
+.nav .hobby_title a:hover:not(.active) {
+    background-color: #333;
+}
