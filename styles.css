@@ -54,3 +54,11 @@ img {
     text-align: justify;
     float: right;
 }
+
+.about p {
+    font-size: 15pt;
+}
+
+.about img {
+    border-radius: 50%;
+}
